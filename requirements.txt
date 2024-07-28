@@ -1,3 +1,6 @@
 django
 Pillow
 mysqlclient
+django-admin-tailwind
+django-tailwind
+'django-tailwind[reload]'
