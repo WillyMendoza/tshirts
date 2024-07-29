@@ -1,6 +1,7 @@
-django
+django==5
 Pillow
 mysqlclient
 django-admin-tailwind
 django-tailwind
-'django-tailwind[reload]'
+setuptools
+
